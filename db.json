@@ -1,0 +1,331 @@
+ {
+        "customers": [
+          {
+            "id": 1,
+            "name": "Ahmed Ali"
+          },
+          {
+            "id": 2,
+            "name": "Aya Elsayed"
+          },
+          {
+            "id": 3,
+            "name": "Mina Adel"
+          },
+          {
+            "id": 4,
+            "name": "Sarah Reda"
+          },
+          {
+            "id": 5,
+            "name": "Mohamed Sayed"
+          },
+          {
+            "id": 6,
+            "name": "John Doe"
+          },
+          {
+            "id": 7,
+            "name": "Jane Smith"
+          },
+          {
+            "id": 8,
+            "name": "Emily Davis"
+          },
+          {
+            "id": 9,
+            "name": "Michael Johnson"
+          },
+          {
+            "id": 10,
+            "name": "Chris Brown"
+          },
+          {
+            "id": 11,
+            "name": "Patricia Miller"
+          },
+          {
+            "id": 12,
+            "name": "Robert Wilson"
+          },
+          {
+            "id": 13,
+            "name": "Linda Anderson"
+          },
+          {
+            "id": 14,
+            "name": "James Thompson"
+          },
+          {
+            "id": 15,
+            "name": "Barbara Taylor"
+          },
+          {
+            "id": 16,
+            "name": "Richard Moore"
+          },
+          {
+            "id": 17,
+            "name": "Susan Jackson"
+          },
+          {
+            "id": 18,
+            "name": "Joseph Harris"
+          },
+          {
+            "id": 19,
+            "name": "Margaret Martin"
+          },
+          {
+            "id": 20,
+            "name": "Thomas Lee"
+          },
+          {
+            "id": 21,
+            "name": "Jessica White"
+          },
+          {
+            "id": 22,
+            "name": "Paul King"
+          },
+          {
+            "id": 23,
+            "name": "Karen Scott"
+          },
+          {
+            "id": 24,
+            "name": "Daniel Green"
+          },
+          {
+            "id": 25,
+            "name": "Nancy Adams"
+          },
+          {
+            "id": 26,
+            "name": "Mark Baker"
+          },
+          {
+            "id": 27,
+            "name": "Betty Gonzalez"
+          },
+          {
+            "id": 28,
+            "name": "Steven Perez"
+          },
+          {
+            "id": 29,
+            "name": "Lisa Roberts"
+          },
+          {
+            "id": 30,
+            "name": "Charles Turner"
+          },
+          {
+            "id": 31,
+            "name": "Dorothy Phillips"
+          },
+          {
+            "id": 32,
+            "name": "Anthony Campbell"
+          },
+          {
+            "id": 33,
+            "name": "Karen Parker"
+          },
+          {
+            "id": 34,
+            "name": "Matthew Evans"
+          },
+          {
+            "id": 35,
+            "name": "Helen Edwards"
+          },
+          {
+            "id": 36,
+            "name": "Donald Collins"
+          },
+          {
+            "id": 37,
+            "name": "Deborah Stewart"
+          },
+          {
+            "id": 38,
+            "name": "Kenneth Sanchez"
+          },
+          {
+            "id": 39,
+            "name": "Sarah Morris"
+          },
+          {
+            "id": 40,
+            "name": "George Rogers"
+          },
+          {
+            "id": 41,
+            "name": "Sandra Reed"
+          },
+          {
+            "id": 42,
+            "name": "Brian Cook"
+          },
+          {
+            "id": 43,
+            "name": "Ashley Morgan"
+          },
+          {
+            "id": 44,
+            "name": "Edward Bell"
+          },
+          {
+            "id": 45,
+            "name": "Donna Murphy"
+          },
+          {
+            "id": 46,
+            "name": "Kevin Bailey"
+          },
+          {
+            "id": 47,
+            "name": "Cynthia Rivera"
+          },
+          {
+            "id": 48,
+            "name": "Jason Cooper"
+          },
+          {
+            "id": 49,
+            "name": "Kathleen Richardson"
+          },
+          {
+            "id": 50,
+            "name": "Jeffrey Cox"
+          }
+        ],
+        "transactions": [
+          {
+            "id": 1,
+            "customer_id": 1,
+            "date": "2022-01-01",
+            "amount": 1000
+          },
+          {
+            "id": 2,
+            "customer_id": 1,
+            "date": "2022-01-02",
+            "amount": 2000
+          },
+          {
+            "id": 3,
+            "customer_id": 2,
+            "date": "2022-01-01",
+            "amount": 550
+          },
+          {
+            "id": 4,
+            "customer_id": 3,
+            "date": "2022-01-01",
+            "amount": 500
+          },
+          {
+            "id": 5,
+            "customer_id": 2,
+            "date": "2022-01-02",
+            "amount": 1300
+          },
+          {
+            "id": 6,
+            "customer_id": 4,
+            "date": "2022-01-01",
+            "amount": 750
+          },
+          {
+            "id": 7,
+            "customer_id": 3,
+            "date": "2022-01-02",
+            "amount": 1250
+          },
+          {
+            "id": 8,
+            "customer_id": 5,
+            "date": "2022-01-01",
+            "amount": 2500
+          },
+          {
+            "id": 9,
+            "customer_id": 5,
+            "date": "2022-01-02",
+            "amount": 875
+          },
+          {
+            "id": 10,
+            "customer_id": 6,
+            "date": "2022-01-03",
+            "amount": 1000
+          },
+          {
+            "id": 11,
+            "customer_id": 7,
+            "date": "2022-01-03",
+            "amount": 1100
+          },
+          {
+            "id": 12,
+            "customer_id": 8,
+            "date": "2022-01-03",
+            "amount": 1200
+          },
+          {
+            "id": 13,
+            "customer_id": 9,
+            "date": "2022-01-03",
+            "amount": 1300
+          },
+          {
+            "id": 14,
+            "customer_id": 10,
+            "date": "2022-01-03",
+            "amount": 1400
+          },
+          {
+            "id": 15,
+            "customer_id": 11,
+            "date": "2022-01-03",
+            "amount": 1500
+          },
+          {
+            "id": 16,
+            "customer_id": 12,
+            "date": "2022-01-03",
+            "amount": 1600
+          },
+          {
+            "id": 17,
+            "customer_id": 13,
+            "date": "2022-01-03",
+            "amount": 1700
+          },
+          {
+            "id": 18,
+            "customer_id": 14,
+            "date": "2022-01-03",
+            "amount": 1800
+          },
+          {
+            "id": 19,
+            "customer_id": 15,
+            "date": "2022-01-03",
+            "amount": 1900
+          },
+          {
+            "id": 20,
+            "customer_id": 16,
+            "date": "2022-01-03",
+            "amount": 2000
+          }
+        ],
+    "totalNumberOfRecords": {
+    "customers": 500,
+    "transactions": 1000
+  }
+      }
+      
